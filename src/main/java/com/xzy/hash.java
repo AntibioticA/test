@@ -11,9 +11,9 @@ public class hash {
 //    System.out.println(student2.hashCode());
         System.out.println("Aa".hashCode());
         System.out.println("BB".hashCode());
+        System.out.println("test git");
     }
 }
-
 class Student{
     private String name;
 
@@ -50,6 +50,7 @@ class Student{
         return Objects.hash(name);
     }
 }
+
 
 
 
