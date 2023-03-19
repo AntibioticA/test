@@ -12,6 +12,8 @@ public class hash {
         System.out.println("Aa".hashCode());
         System.out.println("BB".hashCode());
         System.out.println("test git");
+        System.out.println("test git2");
+
     }
 }
 class Student{
