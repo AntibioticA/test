@@ -13,6 +13,7 @@ public class hash {
         System.out.println("BB".hashCode());
         System.out.println("test git");
         System.out.println("test git24");
+        System.out.println("master git");
 
     }
 }
